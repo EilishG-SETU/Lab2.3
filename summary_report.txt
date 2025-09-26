@@ -1,0 +1,15 @@
+Summary Report of Failed Login Attempts
+============================================================
+
+Top Offending IPs by Failed Attempts:
+----------------------------------------
+IP: 203.0.113.45, Failed Attempts: 18
+IP: 203.0.113.46, Failed Attempts: 14
+IP: 203.0.113.200, Failed Attempts: 7
+IP: 198.51.100.99, Failed Attempts: 5
+IP: 198.51.100.120, Failed Attempts: 5
+IP: 203.0.113.77, Failed Attempts: 3
+IP: 192.0.2.77, Failed Attempts: 3
+IP: 198.51.100.55, Failed Attempts: 1
+
+Total Unique IPs with Failed Attempts: 8

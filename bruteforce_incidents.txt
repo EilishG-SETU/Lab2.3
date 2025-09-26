@@ -1,0 +1,38 @@
+Bruteforce Incidents Report 
+============================================================
+
+Incident 1:
+IP: 203.0.113.45
+Failed attempts: 5
+Time window: 2025-03-10 13:45:01 to 2025-03-10 13:45:50
+Duration: 0.8 minutes
+------------------------------
+
+Incident 2:
+IP: 203.0.113.46
+Failed attempts: 5
+Time window: 2025-03-10 13:46:42 to 2025-03-10 13:56:00
+Duration: 9.3 minutes
+------------------------------
+
+Incident 3:
+IP: 198.51.100.99
+Failed attempts: 5
+Time window: 2025-03-10 13:50:30 to 2025-03-10 13:51:33
+Duration: 1.1 minutes
+------------------------------
+
+Incident 4:
+IP: 203.0.113.200
+Failed attempts: 5
+Time window: 2025-03-10 14:03:00 to 2025-03-10 14:03:55
+Duration: 0.9 minutes
+------------------------------
+
+Incident 5:
+IP: 198.51.100.120
+Failed attempts: 5
+Time window: 2025-03-10 14:00:01 to 2025-03-10 14:01:02
+Duration: 1.0 minutes
+------------------------------
+
